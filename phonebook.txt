@@ -1,0 +1,3 @@
+{name: "Petya", phone: "89452134354"} 
+{name: "Shurik", phone: "89156983246"} 
+{name: "Ivan", phone: "89206546591"} 
